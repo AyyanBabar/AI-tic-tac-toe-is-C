@@ -1,0 +1,1 @@
+g++ tictaktoe.cpp -o tictaktoe -lsfml-graphics -lsfml-window -lsfml-system 
